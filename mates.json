@@ -1,0 +1,31 @@
+[
+    {
+        "id": 1,
+        "tipo": "Imperial",
+        "precio": 2100,
+        "imagen": "multimedia/mateImperial.jpg"
+    },
+
+    {
+        "id": 2,
+        "tipo": "Comet",
+        "precio": 980,
+        "imagen": "multimedia/mateComet.jpg"
+    },
+
+    {
+        "id": 3,
+        "tipo": "Calabaza",
+        "precio": 980,
+        "imagen": "multimedia/mateCalabaza.jpg"
+    },
+
+    {
+        "id": 4,
+        "tipo": "Cerámica",
+        "precio": 980,
+        "imagen": "multimedia/mateCeramica.jpg"
+    }
+    
+
+]
